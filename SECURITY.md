@@ -1,6 +1,6 @@
 # Reporting security issues
 
-The Gitea maintainers take security seriously.
+The pitea maintainers take security seriously.
 
 If you discover a security issue, please bring it to their attention right away!
 
